@@ -11,4 +11,4 @@ I am just a simple fan of League of Legends who also likes to make games for fun
 
 ## Need any help?
 YES! I would totally love to make this a community thing! I could really use a decent pixel artist who can make some sprites/backgrounds with League themes (Minion pawns, champion pieces, etc.).
-As of now I am still setting up this project so I am not sure about programmers yet. When I do then C++ knowledge is a must, and familiarity with Raknet/networking is a plus.
+As of now I am still making spaghetti so I am not sure about programmers yet. When I do then C++ knowledge is a must, and familiarity with Raknet/networking is a plus.
