@@ -1,4 +1,6 @@
 # Updates
+### 1/3/15 by Eponick
+There has been progress made. I have created the dedicated server command line application and have implemented the networking to the client and server. Soon there will be actual progress on the game play.
 
 ### 12/28/15 by Eponick
 Got an animated sprite system coded up today. Im taking the time to write everything neatly since others may be helping me later.
